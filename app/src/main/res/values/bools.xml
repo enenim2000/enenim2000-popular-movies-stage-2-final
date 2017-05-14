@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="clickable_true">true</bool>
+    <bool name="clickable_false">false</bool>
+    <bool name="align_right_true">true</bool>
+    <bool name="align_left_true">true</bool>
+    <bool name="align_top_true">true</bool>
+    <bool name="align_bottom_true">true</bool>
+
+    <bool name="align_right_false">false</bool>
+    <bool name="align_left_false">false</bool>
+    <bool name="align_top_false">false</bool>
+    <bool name="align_bottom_false">false</bool>
+</resources>
